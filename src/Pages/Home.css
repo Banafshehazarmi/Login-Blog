@@ -1,0 +1,39 @@
+.blog-container {
+  max-width: 800px;
+  align-items: center;
+}
+
+.blog-posts {
+  display: flex;
+  justify-content: space-between;
+}
+
+.blog-post {
+  width: 50%;
+  margin-bottom: 50px;
+  margin-right: 50px;
+}
+
+.post-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.CommentButton {
+  width: 200px;
+  height: 30px;
+  background-color: rgb(192, 127, 184);
+  font-size: small;
+}
+
+.CommentBox {
+  width: 200px;
+  margin-top: 0%;
+  margin-left: 10px;
+}
+
+.button-edit {
+  width: 200px;
+  background-color: rgb(188, 99, 160);
+}
